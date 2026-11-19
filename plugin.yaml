@@ -1,0 +1,11 @@
+name: quick-prompts
+label: Quick prompts
+version: 0.1.0
+manifest_version: 2
+requires_hermes: ">=0.21.6"
+description: >
+  One-click prompt buttons above the Hermes Desktop chat input. A click fills the input
+  with the prompt; it never sends. Edit the prompts under Settings → Plugins → Quick prompts.
+  Desktop-only: no agent tools, hooks, middleware, network calls or env vars.
+author: tozes
+license: MIT
