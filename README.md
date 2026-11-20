@@ -2,7 +2,11 @@
 
 A Hermes Desktop plugin that puts your recurring prompts one click away. Each prompt is a small button above the chat input. Click it and the prompt fills the input, ready to edit; it never sends on its own.
 
+![Prompt buttons above the chat input](docs/composer.png)
+
 It ships with three prompts (Status, Summarize, Next steps). Change them under **Settings → Plugins → Quick prompts**: add, edit, reorder or remove prompts, or reset to the defaults. Edits apply as you type.
+
+![The Quick prompts settings page](docs/settings.png)
 
 ## Install
 
